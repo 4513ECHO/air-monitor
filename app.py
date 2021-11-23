@@ -1,1 +1,0 @@
-# Pythonのweb部分
